@@ -1,0 +1,37 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Masoud Abdi
+tagline:          'Personal Website'
+description:      'Entrepreneur | Multi-cloud Unicorn | Data Scientist (PhD) | AI Engineer | Consultant @ Servian | GovHack Victoria'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Masoud Abdi'
+  url:            https://twitter.com/mdo
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+
+linkedin:
+  repo:           https://www.linkedin.com/in/masabdi/
+email:
+  gmail:          itsmasabdi@gmail.com
+                  
