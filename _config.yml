@@ -4,17 +4,19 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+# relative_permalinks: true
+
 
 # Setup
 title:            Masoud Abdi
 tagline:          'Personal Website'
 description:      'Entrepreneur | Multi-cloud Unicorn | Data Scientist (PhD) | AI Engineer | Consultant @ Servian | GovHack Victoria'
 url:              https://www.masabdi.com
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           'Masoud Abdi'
-  url:            https://twitter.com/mdo
+  url:            https://www.masabdi.com
 
 
 plugins:
