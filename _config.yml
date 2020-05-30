@@ -12,7 +12,7 @@ title:            Masoud Abdi
 tagline:          'Personal Website'
 description:      'Entrepreneur | Multi-cloud Unicorn | Data Scientist (PhD) | AI Engineer | Consultant @ Servian | GovHack Victoria'
 url:              https://www.masabdi.com
-baseurl:          https://www.masabdi.com/
+baseurl:          '/'
 
 author:
   name:           'Masoud Abdi'
